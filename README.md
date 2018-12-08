@@ -1,4 +1,4 @@
-# mevnexample
+# MEVN (Mongodb, Express, Vue, Node) stack Crud project
 
 ## Project setup
 ```
@@ -15,14 +15,14 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### Tutorial Example
+```
+See [MEVN Stack Tutorial With Example From Scratch] (https://appdividend.com/2018/11/21/mevn-stack-tutorial-with-example-from-scratch/).
 ```
 
 ### Customize configuration
